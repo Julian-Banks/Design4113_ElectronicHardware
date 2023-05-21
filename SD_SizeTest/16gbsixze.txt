@@ -1,0 +1,17 @@
+12:07:20.213 -> ets Jul 29 2019 12:21:46
+12:07:20.213 -> 
+12:07:20.213 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+12:07:20.213 -> configsip: 0, SPIWP:0xee
+12:07:20.213 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+12:07:20.213 -> mode:DIO, clock div:1
+12:07:20.213 -> load:0x3fff0018,len:4
+12:07:20.213 -> load:0x3fff001c,len:1216
+12:07:20.213 -> ho 0 tail 12 room 4
+12:07:20.213 -> load:0x40078000,len:10944
+12:07:20.213 -> load:0x40080400,len:6388
+12:07:20.213 -> entry 0x400806b4
+12:07:20.855 -> 
+12:07:20.855 -> Card Type: SDHC
+12:07:20.855 -> Card size: 14991
+12:07:20.855 -> MB available: 14986
+12:07:20.855 -> MB used: 3
